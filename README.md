@@ -1,3 +1,3 @@
-# yandex
+# Yandex
 ***
 ## Entrance tests in Yandex
